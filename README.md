@@ -39,12 +39,12 @@ THINGS TO TAKE NOTE OF:
    ![image](https://github.com/user-attachments/assets/727adad2-21c3-446d-a016-c2391a0618e4)
 
 3.  The API will return valid data almost all the time. Sometimes, data may be valid but incorrect. E.g. fetching data for a city, Abram, in Texas, USA will return valid data for a city Abram in Great Britain.
-   ![image](https://github.com/user-attachments/assets/12aa873f-5028-40af-bde1-8608beeac90c)
-
-
-5. Searching for a city name without a Country Code will still return data for that city. In later versions, this can easily be mitigated.
+  
+     ![image](https://github.com/user-attachments/assets/12aa873f-5028-40af-bde1-8608beeac90c)
+  
+6.  Searching for a city name without a Country Code will still return data for that city. In later versions, this can easily be mitigated.
    
-   ![image](https://github.com/user-attachments/assets/d6c1391e-5b32-49ea-968e-60f5cbbf31ab)
+      ![image](https://github.com/user-attachments/assets/caee90c5-30bb-41e1-9503-5aad0af43964)
 
 
 7. The API Key is hard-coded in the code. In later releases, the database can be used to store the api key in order to make it easier to change the api-key if need arises.
