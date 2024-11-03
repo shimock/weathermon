@@ -26,7 +26,7 @@ INSTALLATION:
 5. Access you Xampp Server database (WindowsDefault: localhost/phpmadmin)
 6. Import the WeatherMonSchema.sql script into the database
    
-   ![image](https://github.com/user-attachments/assets/c50401f1-3fe8-4a8a-9817-c26e7b95df63)
+   ![image](https://github.com/user-attachments/assets/ba59b477-60d9-4526-af40-9892909c8202)
 
 7. Go to the app using the Xampp Server's local root url (WindowsDefault: http://localhost/weathermon)
 
