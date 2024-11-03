@@ -39,7 +39,6 @@ THINGS TO TAKE NOTE OF:
    ![image](https://github.com/user-attachments/assets/727adad2-21c3-446d-a016-c2391a0618e4)
 
 3.  The API will return valid data almost all the time. Sometimes, data may be valid but incorrect. E.g. fetching data for a city, Abram, in Texas, USA will return valid data for a city Abram in Great Britain.
-   
    ![image](https://github.com/user-attachments/assets/12aa873f-5028-40af-bde1-8608beeac90c)
 
 
